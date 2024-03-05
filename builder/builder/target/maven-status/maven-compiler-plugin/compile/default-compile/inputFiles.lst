@@ -1,0 +1,12 @@
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/components/GPSNavigator.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/components/TripComputer.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/director/Director.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/builders/Builder.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/builders/CarBuilder.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/components/Transmission.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/builders/CarManualBuilder.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/components/Engine.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/cars/Manual.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/cars/Car.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/cars/CarType.java
+/Users/andrei-georgiancraciun/Desktop/builder/builder/src/main/java/com/example/builder/BuilderApplication.java
